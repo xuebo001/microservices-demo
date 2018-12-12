@@ -59,5 +59,11 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.41</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.codehaus.xfire/xfire-aegis -->
+        <dependency>
+            <groupId>org.codehaus.xfire</groupId>
+            <artifactId>xfire-aegis</artifactId>
+            <version>1.2.6</version>
+        </dependency>
     </dependencies>
 </project>
